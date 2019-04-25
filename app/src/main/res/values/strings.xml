@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TakePhoto</string>
+    <string name="url_api">http://demos.hypergis.pe/php/apirest.php</string>
+    <string name="url_upload">http://demos.hypergis.pe/php/uploads/</string>
+</resources>
